@@ -1,3 +1,3 @@
-# lucenex
+# HW2-Ingegneria Dei Dati
 
-A few Lucene examples 
+ 
